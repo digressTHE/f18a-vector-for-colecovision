@@ -3,6 +3,8 @@ This is a f18a vdp vector demo program. Runs on colecovision/adam or phoenix sys
 It works but needs refining. Here is an example of it working.
 https://www.youtube.com/watch?v=Zwm0V1iXFtw
 
+It loads and runs vector code directly from video memory using the f18a on board processor rather than the z80 of the colecovision.
+
 This was built using existing libraries comp.lib cvlib.lib getput.lib which i did not make.
 Credit to PkK & Newcoleco for their libraries.
 
