@@ -15,10 +15,15 @@ fire button left will draw a vector line each time pressed
 
 
 4 & 6 slide the bitmap layer left & right
+
 3 & 9 slide the bitmap layer up & down
+
 7 & 8 shrink or enlarge the bitmap layer width   ( the vector lines only draw correctly if the screen is not at max width)
+
 2 & 5 shrink or enlarge the bitmap layer height
-* & # change the pallet of the bitmap layer
+
+'*' & '#' change the pallet of the bitmap layer
+
 0 will erase the screen
 
 fire button 2 brings up a menu you cannot see.
