@@ -1,6 +1,7 @@
 # f18avector
 This is a f18a vdp vector demo program. Runs on colecovision/adam or phoenix system with f18a installed
-It works but needs refining.
+It works but needs refining. Here is an example of it working.
+https://www.youtube.com/watch?v=Zwm0V1iXFtw
 
 This was built using existing libraries comp.lib cvlib.lib getput.lib which i did not make.
 Credit to PkK & Newcoleco for their libraries.
