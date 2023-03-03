@@ -29,6 +29,10 @@ fire button left will draw a vector line each time pressed
 fire button 2 brings up a menu you cannot see.
 
 press fire button 2 then select 2 from the keypad will mess & lockup (i can't remember what I was doing here) I will update later
+
 press fire button 2 then select 3 from the keypad will mess & lockup (i can't remember what I was doing here) I will update later
+
 press fire button 2 then select 4 from the keypad will draw rectangles
+
 press fire button 2 then select 5 from the keypad will draw lines in a circle pattern
+
